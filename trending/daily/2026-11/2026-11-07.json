@@ -6,39 +6,39 @@
     "all"
   ],
   "count": 18,
-  "degraded": true,
-  "contentHash": "sha256:ea31b36673128c72a27e1a3f156fbaf4252f1567f2018177f0e14b1c0d2c638b",
+  "degraded": false,
+  "contentHash": "sha256:789ddc82eab17f7213131296ef6b44c97cfdc8b51afbd00b60c6c7b9042169cb",
   "contentHashAlgo": "jcs-sha256-v1",
   "coreVersion": "0.12.3",
-  "generatedAt": "2026-11-07T08:23:25.7023494Z",
+  "generatedAt": "2026-11-07T08:26:13.990161Z",
   "repos": [
     {
       "fullName": "zed-industries/zed",
       "url": "https://github.com/zed-industries/zed",
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "rust",
-      "stars": 93906,
+      "stars": 93907,
       "starsInPeriod": 306,
-      "forks": 11524,
+      "forks": 11525,
       "rank": 1,
       "source": "trending-html",
-      "summary": "[原文] Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "summary": "面向开发者的高性能多人协作代码编辑器，支持实时协同编程。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "NVIDIA/auto-ontology",
       "url": "https://github.com/NVIDIA/auto-ontology",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "python",
-      "stars": 9428,
+      "stars": 9433,
       "starsInPeriod": 2015,
-      "forks": 747,
+      "forks": 749,
       "rank": 2,
       "source": "trending-html",
-      "summary": "[原文] Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "summary": "面向大语言模型与智能体流程的 Python 语义图推理框架，提升查询生成与上下文检索的可解释性。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "rails/rails",
@@ -47,12 +47,12 @@
       "language": "ruby",
       "stars": 59065,
       "starsInPeriod": 142,
-      "forks": 23833,
+      "forks": 23834,
       "rank": 3,
       "source": "trending-html",
-      "summary": "[原文] Ruby on Rails",
+      "summary": "面向 Ruby 开发者的全栈 Web 应用开发框架，提供约定优于配置的开发方式。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "mpv-player/mpv",
@@ -61,12 +61,12 @@
       "language": "c",
       "stars": 37948,
       "starsInPeriod": 37,
-      "forks": 3635,
+      "forks": 3636,
       "rank": 4,
       "source": "trending-html",
-      "summary": "[原文] 🎥 Command line media player",
+      "summary": "面向命令行用户的媒体播放器，支持播放多种音视频内容。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "rust-lang/rust",
@@ -78,9 +78,9 @@
       "forks": 17369,
       "rank": 5,
       "source": "trending-html",
-      "summary": "[原文] Empowering everyone to build reliable and efficient software.",
+      "summary": "用于构建可靠、高效软件的 Rust 编程语言及其工具链。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "react/react",
@@ -89,12 +89,12 @@
       "language": "javascript",
       "stars": 252322,
       "starsInPeriod": 248,
-      "forks": 51840,
+      "forks": 51842,
       "rank": 6,
       "source": "trending-html",
-      "summary": "[原文] The library for web and native user interfaces.",
+      "summary": "用于构建 Web 与原生用户界面的 JavaScript 库。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "angular/angular",
@@ -103,12 +103,12 @@
       "language": "typescript",
       "stars": 101440,
       "starsInPeriod": 135,
-      "forks": 28915,
+      "forks": 28916,
       "rank": 7,
       "source": "trending-html",
-      "summary": "[原文] Deliver web apps with confidence 🚀",
+      "summary": "面向开发团队的 TypeScript Web 应用框架，用于构建和维护复杂网页应用。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "symfony/symfony",
@@ -117,12 +117,12 @@
       "language": "php",
       "stars": 31495,
       "starsInPeriod": 128,
-      "forks": 9950,
+      "forks": 9951,
       "rank": 8,
       "source": "trending-html",
-      "summary": "[原文] The Symfony PHP framework",
+      "summary": "面向 PHP 开发者的 Web 应用框架，提供可复用的组件与开发基础。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "prometheus/prometheus",
@@ -131,40 +131,40 @@
       "language": "go",
       "stars": 67259,
       "starsInPeriod": 148,
-      "forks": 10992,
+      "forks": 10993,
       "rank": 9,
       "source": "trending-html",
-      "summary": "[原文] The Prometheus monitoring system and time series database.",
+      "summary": "提供指标采集、监控查询与时序数据存储的监控系统。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "google/skills",
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "python",
-      "stars": 22981,
+      "stars": 22982,
       "starsInPeriod": 534,
       "forks": 1931,
       "rank": 10,
       "source": "trending-html",
-      "summary": "[原文] Agent Skills for Google products and technologies",
+      "summary": "面向智能体的 Google 产品与技术技能集合，辅助执行相关开发任务。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "microsoft/vscode",
       "url": "https://github.com/microsoft/vscode",
       "description": "Visual Studio Code",
       "language": "typescript",
-      "stars": 195093,
+      "stars": 195094,
       "starsInPeriod": 301,
-      "forks": 44434,
+      "forks": 44435,
       "rank": 11,
       "source": "trending-html",
-      "summary": "[原文] Visual Studio Code",
+      "summary": "面向开发者的可扩展源代码编辑器，支持多语言开发与调试。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "lz4/lz4",
@@ -173,12 +173,12 @@
       "language": "c",
       "stars": 12661,
       "starsInPeriod": 315,
-      "forks": 1645,
+      "forks": 1646,
       "rank": 12,
       "source": "trending-html",
-      "summary": "[原文] Extremely Fast Compression algorithm",
+      "summary": "面向需要低延迟处理的场景提供高速数据压缩算法与实现。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "nushell/nushell",
@@ -187,12 +187,12 @@
       "language": "rust",
       "stars": 41034,
       "starsInPeriod": 131,
-      "forks": 2344,
+      "forks": 2345,
       "rank": 13,
       "source": "trending-html",
-      "summary": "[原文] A new type of shell",
+      "summary": "面向命令行用户的新型 Shell，以结构化数据处理替代传统文本管道。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "etcd-io/etcd",
@@ -201,12 +201,12 @@
       "language": "go",
       "stars": 52656,
       "starsInPeriod": 128,
-      "forks": 10590,
+      "forks": 10591,
       "rank": 14,
       "source": "trending-html",
-      "summary": "[原文] Distributed reliable key-value store for the most critical data of a distributed system",
+      "summary": "为分布式系统提供可靠一致的分布式键值存储服务。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "openssl/openssl",
@@ -215,40 +215,40 @@
       "language": "c",
       "stars": 31345,
       "starsInPeriod": 26,
-      "forks": 11583,
+      "forks": 11584,
       "rank": 15,
       "source": "trending-html",
-      "summary": "[原文] General purpose TLS and crypto library",
+      "summary": "提供 TLS 协议与通用密码学能力的 C 语言安全库。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "shell",
-      "stars": 317012,
+      "stars": 317014,
       "starsInPeriod": 2070,
-      "forks": 26531,
+      "forks": 26530,
       "rank": 16,
       "source": "trending-html",
-      "summary": "[原文] Skills for Real Engineers. Straight from my .agents directory.",
+      "summary": "面向软件工程师的智能体技能集合，提供可复用的开发任务能力。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "javascript",
-      "stars": 64532,
+      "stars": 64534,
       "starsInPeriod": 2548,
       "forks": 4188,
       "rank": 17,
       "source": "trending-html",
-      "summary": "[原文] A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "summary": "用于编码智能体的分阶段安全审计技能，生成可机器读取并经独立验证的发现结果。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     },
     {
       "fullName": "astral-sh/ruff",
@@ -257,12 +257,12 @@
       "language": "rust",
       "stars": 50770,
       "starsInPeriod": 169,
-      "forks": 2617,
+      "forks": 2618,
       "rank": 18,
       "source": "trending-html",
-      "summary": "[原文] An extremely fast Python linter and code formatter, written in Rust.",
+      "summary": "用 Rust 编写的高速 Python 代码检查与格式化工具。",
       "summaryLang": "zh",
-      "summarySource": "original"
+      "summarySource": "model"
     }
   ]
 }
